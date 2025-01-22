@@ -1,26 +1,47 @@
-### <i>I'm Lucas Souza.</i> 🆙
+# LUCAS DE OLIVEIRA SOUZA BARBOSA, 21  
 
-</br>
+---
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasolisouza_)
+<table>
+<tr>
+<td>
+  
+### Meu curso atual (Português):
+- Bacharelado em Ciência da Computação.  
+- Instituição: IFMG (Instituto Federal de Minas Gerais).  
+- Foco atual: Algoritmos genéticos e otimização.  
 
-</br>
+### Pontos fortes (Português):
+- Python (mais de 4 anos).  
+- Inteligência Artificial (mais de 1 ano).  
+- Habilidades de busca e pesquisa.  
+- Criatividade e resolução de problemas.  
+- Organização e foco em resultados.  
+- Aprendizado contínuo.    
 
-![Lucas Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasolisouza&show_icons=true&theme=radical)
+</td>
+<td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasolisouza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### My Current Course (English):
+- Bachelor’s Degree in Computer Science.  
+- Institution: IFMG (Federal Institute of Minas Gerais).  
+- Current focus: Genetic algorithms and optimization.  
 
-## 🚀 <i>Skills</i>:
+### Strengths (English):
+- Python (4+ years).  
+- Artificial Intelligence (1+ year).  
+- Search and Research Skills.  
+- Creativity and problem solving.  
+- Organization and results-oriented.  
+- Continuous learning.   
 
-<div style="display:inline-block"><br/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-        <img aling="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-            <img aling="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
+</td>
+</tr>
+</table>
 
-</br>
-<i>Studying Bachelor of Science in Computer Science.</i>
+---
+
+### Contato / Contact:  
+- Email: **lb858395@gmail.com**  
+- LinkedIn: [linkedin.com/in/lucasbarbosa](https://www.linkedin.com/in/lucas-de-oliveira-souza-barbosa-868298234/)  
+- GitHub: [github.com/lucasolisouza](https://github.com/lucasolisouza)  
