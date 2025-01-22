@@ -24,7 +24,7 @@
 
 ### My Current Course (English):
 - Bachelor’s Degree in Computer Science.  
-- Institution: IFMG (Federal Institute of Minas Gerais).  
+- Institution: IFMG (Instituto Federal de Minas Gerais).  
 - Current focus: Genetic algorithms and optimization.  
 
 ### Strengths (English):
